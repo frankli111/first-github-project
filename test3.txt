@@ -2,3 +2,4 @@ this is a test file2, resolve confilect, edit by Frank li
 this is a testing confilect file, edit by Allen.
 
 modify by frank li 10/12/2020
+changed by branch testing1.
